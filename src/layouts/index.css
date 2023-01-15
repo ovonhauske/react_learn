@@ -55,3 +55,19 @@ a {
   background-color: #5334F5;
   border:rgba(255, 255, 255, 0.7);
 }
+
+
+@media (max-width: 640px)  {
+
+.HeroGroup {
+    padding: 100px 20px;
+  }
+
+.Hero h1{
+  font-size: 40px;
+}
+
+.Hero p {
+  font-size: 24px;
+}
+}
