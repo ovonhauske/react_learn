@@ -188,6 +188,9 @@ a {
 
   .CardGroup {
     grid-template-columns: repeat(1,1fr);
+    justify-items: center;
+    grid-gap: 20px;
+
   }
   
 
